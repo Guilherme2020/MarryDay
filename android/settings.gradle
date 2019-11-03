@@ -1,0 +1,3 @@
+rootProject.name = 'marry_day'
+
+include ':app'
